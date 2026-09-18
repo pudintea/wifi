@@ -1,3 +1,4 @@
+# Channel 2.4 dan 5G
 Kalau yang dimaksud **rekomendasi channel Wi-Fi untuk kelas/sekolah di Indonesia**, saya sarankan konfigurasi berikut untuk meminimalkan interferensi:
 
  ### 2,4 GHz
@@ -36,3 +37,6 @@ Kalau yang dimaksud **rekomendasi channel Wi-Fi untuk kelas/sekolah di Indonesia
 | Kelas C | Ch 11 | Ch 48 |
 
 Kalau kamu memberi tahu **berapa jumlah AP, ukuran/denah kelas, dan apakah AP-nya Wi-Fi 5/6/6E**, saya bisa buatkan **channel plan seluruh sekolah** (2,4 GHz + 5 GHz) agar AP yang berdekatan tidak saling mengganggu.
+
+## Channel 5 G Ruckus
+Di Indonesia, channel Wi-Fi 5 GHz yang diperbolehkan digunakan secara bebas (tanpa lisensi khusus) untuk perangkat konsumen adalah 36, 40, 44, 48, 149, 153, 157, dan 161.
