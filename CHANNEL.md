@@ -40,3 +40,11 @@ Kalau kamu memberi tahu **berapa jumlah AP, ukuran/denah kelas, dan apakah AP-ny
 
 ## Channel 5 G Ruckus
 Di Indonesia, channel Wi-Fi 5 GHz yang diperbolehkan digunakan secara bebas (tanpa lisensi khusus) untuk perangkat konsumen adalah 36, 40, 44, 48, 149, 153, 157, dan 161.
+
+ **Contoh 3 kelas bersebelahan:**
+
+ | Kelas | 2,4 GHz | 5 GHz |
+| --- | --- | --- |
+| Kelas A | Ch 1 | Ch 149 |
+| Kelas B | Ch 6 | Ch 157 |
+| Kelas C | Ch 11 | Ch 161 |
